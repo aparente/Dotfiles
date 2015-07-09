@@ -1,0 +1,9 @@
+# Version information for profileoptions
+version 1.0
+
+# A flag of whether or not showing the 'Choose Profile' dialog at startup
+show false
+
+# The default profile for next Maestro session
+default Maestro
+

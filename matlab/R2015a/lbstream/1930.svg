@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="57.2347mm" height="67.7333mm"
+ viewBox="0 0 169 200"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="290.139" y1="-370.5" x2="293.81" y2="-370.5" id="gradient1">
+    <stop offset="1e-07" stop-color="#4d5d6c" stop-opacity="1" />
+    <stop offset="1" stop-color="#4e7594" stop-opacity="1" />
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="288.827" y1="-372.169" x2="290.338" y2="-370.666" id="gradient2">
+    <stop offset="1e-07" stop-color="#dfecff" stop-opacity="1" />
+    <stop offset="1" stop-color="#4d5d6c" stop-opacity="1" />
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="-400.719" y1="-278.016" x2="-397.408" y2="-278.016" id="gradient3">
+    <stop offset="1e-07" stop-color="#4d5d6c" stop-opacity="1" />
+    <stop offset="1" stop-color="#4e7594" stop-opacity="1" />
+</linearGradient>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="#ffffff" fill-opacity="0" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M0,0 L169,0 L169,200 L0,200 L0,0z "/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip166)" >
+<defs><clipPath id="clip166"><path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M0,0 L169.231,0 L169.231,200 L0,200 L0,0z "/>
+</clipPath></defs></g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip167)" >
+<defs><clipPath id="clip167"><path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M10,-18 L10,26 L-42,26 L-42,-18 L10,-18z "/>
+</clipPath></defs></g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip167)" >
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+<defs><clipPath id="clip168"><path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M0,0 L10,0 L10,10 L0,10 L0,0z "/>
+</clipPath></defs></g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="url(#gradient1)" stroke="none" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+<path vector-effect="non-scaling-stroke" fill-rule="nonzero" d="M4.139,5 L7.81,5 L7.81,6 L4.139,6 L4.139,5z "/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="url(#gradient2)" stroke="none" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+<path vector-effect="non-scaling-stroke" fill-rule="nonzero" d="M2.854,7.854 L2.146,7.146 L4.146,5.146 L4.854,5.854 L2.854,7.854z "/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="url(#gradient3)" stroke="none" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+<path vector-effect="non-scaling-stroke" fill-rule="nonzero" d="M4.139,2.063 L5.139,2.063 L5.139,5.374 L4.139,5.374 L4.139,2.063z "/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+<path vector-effect="non-scaling-stroke" fill-rule="nonzero" d="M9,1 L9,9 L1,9 L1,1 L9,1 M10,0 L0,0 L0,10 L10,10 L10,0"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip168)" >
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip169)" >
+<defs><clipPath id="clip169"><path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M10,-18 L10,26 L-42,26 L-42,-18 L10,-18z "/>
+</clipPath></defs></g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip169)" >
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip169)" >
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip169)" >
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(2.35501e-16,-3.84615,3.84615,2.35501e-16,69.2308,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip169)" >
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(3.84615,0,0,3.84615,7.69231,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip170)" >
+<defs><clipPath id="clip170"><path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-2,-10 L42,-10 L42,42 L-2,42 L-2,-10z "/>
+</clipPath></defs></g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(3.84615,0,0,3.84615,7.69231,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip170)" >
+<path vector-effect="none" fill-rule="evenodd" d="M0,0 L40,0 L40,40 L0,40 L0,0z "/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(3.84615,0,0,3.84615,7.69231,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip170)" >
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(3.84615,0,0,3.84615,7.69231,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip170)" >
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(3.84615,0,0,3.84615,7.69231,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip171)" >
+<defs><clipPath id="clip171"><path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M0,0 L40,0 L40,40 L0,40 L0,0z "/>
+</clipPath></defs></g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(3.84615,0,0,3.84615,-261.538,-57.6923)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip172)" >
+<defs><clipPath id="clip172"><path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M70,25 L110,25 L110,65 L70,65 L70,25z "/>
+</clipPath></defs><image x="70" y="25" width="40" height="40" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAIAAAADnC86AAAAA3NCSVQICAjb4U/gAAAACXBIWXMAAAuJAAALiQE3ycutAAADS0lEQVRYhd2Yy08TURTGz5mZTtOWwhhobRB1wd5E94JKdGUkRg1hQ/ir2LgwuDDRaCQmakiMEHY1PgCrtSxQsBIUXyhp2pm593Nxx2EsLY8yOonform5vT2/c8595JwyAGouAMxMEsQMJg5O1q3Zo7RtkCACE4GIGQTfdh2Gmbf3fm9gZiaAiEAgps/fv80WXjY0H3LEis3ExAygWCxevX4NBB+2H+q2YBBJL73M/GJu9u27d0+ePvd9AuBTw0y1Mk9ETPT5+7dnL+cSidTNu3dqtZrP9mMNNdVM6hADeLNQMmOxo4ePJBKJtbU1FZ+UklqK1TPf7JcgAkEDE1PNsZeWlsorKyeOHbes9j+Whb7HTKSRd3PjMVPXdem6tl2tX9YSdTtwnYQQruuq9Iai3YKllEKIlne0dTAA13X/KVjBIkt1BBErSSkdxxFCRAAWQvzTVKubKl1hV2sRpFoI4ThONPc4MrBt29EcLsdxXNeNABxNxEII27b/l1PdMI66Sdd1q9XqXlOtjHimQBQwqTUrIeomAahqa0/ZZmaQV7v5tZTywdhNCQFAPZmLi4upVMr4LV3XNU3TdV0NmLnuk4hY13TWyisfZufn+/r6Oq0DBPAum4Dl5eWxsbH19fVkMmkYhmma8Xg8Ho+bpmmaZiwWCzqhaZoaqJB0XTfM2MPHjwrF15lM5tTJvkvnL2Q7M8aO1FKpND4+XqlUhoeHe3p6go4G/fa3MygppaZpr0pvOtrSQ5ev5HK57oM50zSJm1eZSvl8fmJiwjCM0dHR3t7eHb1sKAGpEXuFI3uFaWOw8ndqampmZiaZTI6MjORyOX9xy5WlQgLw+qKtX9u2PTk5WSgUOjo6hoaGurq6WiOR6jUbzTMkQCBmddgI9OXrl+np6XK5bFnW4OCgZVm0j8K9mVhKGbS4urqaz+d/bPxsS6YGBgbS6TQFchsi3lBREtON27fer3yo1WosIYS4MnixvX2zW/FORHhBe9dJEl7MzxUXSsyczWT6+/uz2ezmWWD2B6GCmTYqlY9rnw51d587PXD29Jl0W3rrHw/h7jFJQAKrnz7ee3D/x8ZP7+IHXgAAqnkJV15j7/fg9PsNCjm+LWJINL5of1m/ABAbgYHjHVviAAAAAElFTkSuQmCC" />
+</g>
+
+<g fill="none" stroke="#ff0000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0,-3.84615,3.84615,0,84.6154,50)"
+font-family="Liberation Sans" font-size="10" font-weight="400" font-style="normal" 
+clip-path="url(#clip173)" >
+<defs><clipPath id="clip173"><path vector-effect="none" fill-rule="evenodd" d="M-37,-20 L3,-20 L3,20 L-37,20 L-37,-20z "/>
+</clipPath></defs></g>
+
+<g fill="none" stroke="#ff0000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0,-3.84615,3.84615,0,84.6154,50)"
+font-family="Liberation Sans" font-size="10" font-weight="400" font-style="normal" 
+clip-path="url(#clip173)" >
+<text textLength="7" fill="#ff0000" fill-opacity="1" stroke="none" xml:space="preserve" x="-7" y="3" font-family="Liberation Sans" font-size="10" font-weight="400" font-style="normal" 
+ >R</text>
+</g>
+
+<g fill="none" stroke="#ff0000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0,-3.84615,3.84615,0,84.6154,50)"
+font-family="Liberation Sans" font-size="10" font-weight="400" font-style="normal" 
+clip-path="url(#clip173)" >
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(3.84615,0,0,3.84615,-259.615,-55.7692)"
+font-family="Liberation Sans" font-size="10" font-weight="400" font-style="normal" 
+clip-path="url(#clip174)" >
+<defs><clipPath id="clip174"><path vector-effect="none" fill-rule="evenodd" d="M70,25 L110,25 L110,65 L70,65 L70,25z "/>
+</clipPath></defs><polyline fill="none" vector-effect="none" points="70,64 109,64 " />
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(3.84615,0,0,3.84615,-259.615,-55.7692)"
+font-family="Liberation Sans" font-size="10" font-weight="400" font-style="normal" 
+clip-path="url(#clip174)" >
+<polyline fill="none" vector-effect="none" points="109,64 109,25 " />
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(3.84615,0,0,3.84615,-259.615,-55.7692)"
+font-family="Liberation Sans" font-size="10" font-weight="400" font-style="normal" 
+clip-path="url(#clip174)" >
+<polyline fill="none" vector-effect="none" points="109,25 70,25 " />
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(3.84615,0,0,3.84615,-259.615,-55.7692)"
+font-family="Liberation Sans" font-size="10" font-weight="400" font-style="normal" 
+clip-path="url(#clip174)" >
+<polyline fill="none" vector-effect="none" points="70,25 70,64 " />
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(3.84615,0,0,3.84615,-259.615,-55.7692)"
+font-family="Liberation Sans" font-size="10" font-weight="400" font-style="normal" 
+clip-path="url(#clip175)" >
+<defs><clipPath id="clip175"><path vector-effect="none" fill-rule="evenodd" d="M-2,-10 L42,-10 L42,42 L-2,42 L-2,-10z "/>
+</clipPath></defs></g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Liberation Sans" font-size="10" font-weight="400" font-style="normal" 
+clip-path="url(#clip175)" >
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(3.84615,0,0,3.84615,7.69231,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip175)" >
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(3.84615,0,0,3.84615,7.69231,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip175)" >
+</g>
+
+<g fill="none" stroke="none" transform="matrix(3.84615,0,0,3.84615,7.69231,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip175)" >
+<path vector-effect="none" fill-rule="evenodd" d="M0,0 L40,0 L40,40 L0,40 L0,0z "/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(3.84615,0,0,3.84615,7.69231,38.4615)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip175)" >
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip176)" >
+<defs><clipPath id="clip176"><path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M0,0 L169,0 L169,200 L0,200 L0,0z "/>
+</clipPath></defs></g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+clip-path="url(#clip177)" >
+<defs><clipPath id="clip177"><path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M0,0 L1,0 L1,1 L0,1 L0,0z "/>
+</clipPath></defs></g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12.5" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+</svg>

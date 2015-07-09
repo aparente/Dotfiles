@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApplicationSettings>
+    <LigandDetection>
+        <allowaminoacids dt="bool">false</allowaminoacids>
+        <allowsmallions dt="bool">false</allowsmallions>
+        <includedresiduecodes dt="QString"></includedresiduecodes>
+        <maximumatomcount dt="int">130</maximumatomcount>
+        <minimumatomcount dt="int">5</minimumatomcount>
+        <residuecodes dt="QString">ACE+_ACT+_ACY+_BCT+_BME+_BOG+_CAC+_CIT+_CO3+_DMS+_EDO+_EGL+_EPE+_FES+_FMT+_FS3+_FS4+_GOL+_HEC+_HED+_HEM+_IOD+_IPA+_MES+_MO6+_MPD+_MYR+_NAG+_NCO+_NH2+_NH3+_NO3+_PG4+_PO4+_POP+_SEO+_SO4+_SPD+_SPM+_SUC+_SUL+_TRS+</residuecodes>
+    </LigandDetection>
+</ApplicationSettings>

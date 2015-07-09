@@ -1,0 +1,31 @@
+140911-06:54:12 [redirect stderr to the log file]
+140911-06:54:12 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+140911-06:54:12 jnanny (pid 14624) starting
+140911-06:54:12 Command line: /opt/schrodinger/suites2014-3/mmshare-v27013/bin/Darwin-x86_64/jnanny.pl -jserverport 61428 -label jnanny -all
+140911-06:54:12 CleanupDatabase: jserver on dnab42104e.stanford.edu is handling jobdb cleanup.
+140911-06:54:12 CheckSubmitted:
+140911-06:54:12   no submitted jobs
+140911-06:54:12 UpdateDbIndex:
+140911-06:54:12   Updating index for Angelicas-MacBook-Air: 0 job(s) added, 0 deleted, 0 updated; total 0.00150 s
+140911-06:54:12   Compactifying index for Angelicas-MacBook-Air: 0 line(s) read, 0 written, 0 deleted; total 0.00087 s, locked 0.00020 s
+140911-06:54:12 CheckStranded:
+140911-06:54:12   no active jobs
+140911-06:54:12 jnanny does not need to run again
+140911-06:54:12 next run at 140911-07:04:12 (600 seconds)
+140911-06:54:12 jnanny (pid 14624) done
+140911-08:54:56 [redirect stderr to the log file]
+140911-08:54:56 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+140911-08:54:56 jnanny (pid 14635) starting
+140911-08:54:56 Command line: /opt/schrodinger/suites2014-3/mmshare-v27013/bin/Darwin-x86_64/jnanny.pl -jserverport 61428 -label jnanny -all -run
+140911-08:54:57 CleanupDatabase: jserver on dnab42104e.stanford.edu is handling jobdb cleanup.
+140911-08:54:57 MonitorJobs:
+140911-08:54:57 CheckSubmitted:
+140911-08:54:57   no submitted jobs
+140911-08:54:57 UpdateDbIndex:
+140911-08:54:57   Updating index for Angelicas-MacBook-Air: 0 job(s) added, 0 deleted, 0 updated; total 0.00098 s
+140911-08:54:57   Compactifying index for Angelicas-MacBook-Air: 0 line(s) read, 0 written, 0 deleted; total 0.00116 s, locked 0.00027 s
+140911-08:54:57 CheckStranded:
+140911-08:54:57   no active jobs
+140911-08:54:57 jnanny does not need to run again
+140911-08:54:57 next run at 140911-09:04:57 (600 seconds)
+140911-08:54:57 jnanny (pid 14635) done

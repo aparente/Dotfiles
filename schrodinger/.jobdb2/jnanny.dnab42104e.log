@@ -1,0 +1,63 @@
+140911-00:19:06 [redirect stderr to the log file]
+140911-00:19:06 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+140911-00:19:06 jnanny (pid 13756) starting
+140911-00:19:06 Command line: /opt/schrodinger/suites2014-3/mmshare-v27013/bin/Darwin-x86_64/jnanny.pl -jserverport 61428 -label jnanny -all -run
+140911-00:19:06 MonitorJobs:
+140911-00:19:06 CleanupDatabase:
+140911-00:19:06   the jobdb is empty
+140911-00:19:06 CheckSubmitted:
+140911-00:19:06   no submitted jobs
+140911-00:19:06 UpdateDbIndex:
+140911-00:19:06   Updating index for dnab42104e: 0 job(s) added, 0 deleted, 0 updated; total 0.00104 s
+140911-00:19:06   Compactifying index for dnab42104e: 0 line(s) read, 0 written, 0 deleted; total 0.00196 s, locked 0.00101 s
+140911-00:19:06 CheckStranded:
+140911-00:19:06   no active jobs
+140911-00:19:06 jnanny does not need to run again
+140911-00:19:06 next run at 140911-00:29:06 (600 seconds)
+140911-00:19:06 jnanny (pid 13756) done
+140911-00:20:07 [redirect stderr to the log file]
+140911-00:20:07 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+140911-00:20:07 jnanny (pid 13770) starting
+140911-00:20:07 Command line: /opt/schrodinger/suites2014-3/mmshare-v27013/bin/Darwin-x86_64/jnanny.pl -jserverport 61428 -label jnanny -all -run
+140911-00:20:08 MonitorJobs:
+140911-00:20:08 CleanupDatabase:
+140911-00:20:08   the jobdb is empty
+140911-00:20:08 CheckSubmitted:
+140911-00:20:08   no submitted jobs
+140911-00:20:08 UpdateDbIndex:
+140911-00:20:08   Updating index for dnab42104e: 0 job(s) added, 0 deleted, 0 updated; total 0.00064 s
+140911-00:20:08   Compactifying index for dnab42104e: 0 line(s) read, 0 written, 0 deleted; total 0.00215 s, locked 0.00111 s
+140911-00:20:08 CheckStranded:
+140911-00:20:08   no active jobs
+140911-00:20:08 jnanny does not need to run again
+140911-00:20:08 next run at 140911-00:30:08 (600 seconds)
+140911-00:20:08 jnanny (pid 13770) done
+140911-00:52:22 [redirect stderr to the log file]
+140911-00:52:22 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+140911-00:52:22 jnanny (pid 13979) starting
+140911-00:52:22 Command line: /opt/schrodinger/suites2014-3/mmshare-v27013/bin/Darwin-x86_64/jnanny.pl -jserverport 61428 -label jnanny -all -run
+140911-00:52:23 MonitorJobs:
+140911-00:52:23 CleanupDatabase:
+140911-00:52:23   1 jobs in the jobdb
+140911-00:52:23   1 active
+140911-00:52:23 CheckSubmitted:
+140911-00:52:23   no submitted jobs
+140911-00:52:23 UpdateDbIndex:
+140911-00:52:23   Updating index for dnab42104e: 0 job(s) added, 0 deleted, 0 updated; total 0.00158 s
+140911-00:52:23   Compactifying index for dnab42104e: 5 line(s) read, 1 written, 4 deleted; total 0.00203 s, locked 0.00039 s
+140911-00:52:23 CheckStranded:
+140911-00:52:23   1 active job(s)
+140911-00:52:23   should run again at 140911-00:57:23 (300 seconds)
+140911-00:52:23   should run again at 140911-06:52:23 (21600 seconds)
+140911-00:52:23 jnanny needs to run again
+140911-00:52:23 next run at 140911-00:57:23 (300 seconds)
+140911-00:52:23 jnanny (pid 13979) done
+140911-00:57:23 [redirect stderr to the log file]
+140911-00:57:23 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+140911-00:57:23 jnanny (pid 14024) starting
+140911-00:57:23 Command line: /opt/schrodinger/suites2014-3/mmshare-v27013/bin/Darwin-x86_64/jnanny.pl -jserverport 61428 -label jnanny -all
+140911-00:57:24 CheckStranded:
+140911-00:57:24   no active jobs
+140911-00:57:24 jnanny needs to run again
+140911-00:57:24 next run at 140911-06:52:23 (21299 seconds)
+140911-00:57:24 jnanny (pid 14024) done

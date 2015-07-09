@@ -1,0 +1,17 @@
+Host sherlock sherlock.stanford.edu sherlock* sherlock*.stanford.edu
+GSSAPIDelegateCredentials yes
+GSSAPIAuthentication yes
+Host *.stanford.edu
+GSSAPIDelegateCredentials yes
+GSSAPIAuthentication yes
+Host *.*
+GSSAPIDelegateCredentials no
+Host *
+GSSAPIDelegateCredentials yes
+GSSAPIAuthentication yes
+Host sherlock sherlock.stanford.edu sherlock* sherlock*.stanford.edu
+GSSAPIDelegateCredentials yes
+GSSAPIAuthentication yes
+Host sherlock sherlock.stanford.edu sherlock* sherlock*.stanford.edu
+GSSAPIDelegateCredentials yes
+GSSAPIAuthentication yes

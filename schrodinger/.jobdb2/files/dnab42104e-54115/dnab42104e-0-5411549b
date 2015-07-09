@@ -1,0 +1,70 @@
+JobId: dnab42104e-0-5411549b
+Name: unknown-missing-side-chains
+Program: RefineStructure
+Project: /var/folders/yd/x0qswdhn73vgkpgh_vxlhsx80000gn/T/Angelica/tproj26389a13717
+Processors: 1
+Host: dnab42104e.stanford.edu
+User: Angelica
+Dir: /Users/Angelica/Documents/Schrodinger/prepwizard_workdir
+HostsFile: /opt/schrodinger/suites2014-3/schrodinger.hosts
+HostEntry: localhost
+Commandline: /opt/schrodinger/suites2014-3/prime unknown-missing-side-chains -PROJ /var/folders/yd/x0qswdhn73vgkpgh_vxlhsx80000gn/T/Angelica/tproj26389a13717 -DISP ignore -HOST localhost
+MmshareExec: /opt/schrodinger/suites2014-3/mmshare-v27013/bin/Darwin-x86_64
+JobHost: dnab42104e.stanford.edu
+JobUser: Angelica
+JobDir: /Users/Angelica/.schrodinger/tmp/unknown-missing-side-chains
+TmpDir: /Users/Angelica/.schrodinger/tmp
+JobDB: /Users/Angelica/.schrodinger/.jobdb2
+JobMmshareExec: /opt/schrodinger/suites2014-3/mmshare-v27013/bin/Darwin-x86_64
+JobPort: 62069
+JobFifo: /tmp/jmonitor.Angelica.13968
+JobPid: 13968
+Status: completed
+ExitStatus: finished
+ExitCode: 0
+LastStatus: exited
+Disposition: ignore
+JobProgress: 1 1
+Summary: The job completed successfully.
+Command: BASE64 KCBweXRob24gIi9vcHQvc2Nocm9kaW5nZXIvc3VpdGVzMjAxNC0zL3BzcC12MzcwMTMvYmluL0Rhcndpbi14ODZfNjQvcHJpbWV4X2RyaXZlci5weSIgInVua25vd24tbWlzc2luZy1zaWRlLWNoYWlucyIgInVua25vd24tbWlzc2luZy1zaWRlLWNoYWlucy5pbnAiICItTkpPQlMiICIxIiApID4gInVua25vd24tbWlzc2luZy1zaWRlLWNoYWlucy5sb2ciIDI+JjE=
+Home: /Users/Angelica
+Timezone: -0700
+Nice: local
+LaunchTime: 2014-09-11-00:51:55
+StartTime: 2014-09-11-00:51:55
+StopTime: 2014-09-11-00:54:00
+StatusTime: 2014-09-11-00:54:00
+ChildPid: 13975
+BackendPid: 13976
+MpiNodefile: /Users/Angelica/.schrodinger/tmp/unknown-missing-side-chains/dnab42104e-0-5411549b.mpinodes
+StructureOutputFile: unknown-missing-side-chains-out.maegz
+LogInterval: 60
+MonitorInterval: 0
+SaveJobDir: 0
+TmpLaunchDir: 0
+AutoCleanup: 0
+Debug: 0
+NodePoolSize: 1
+InputFiles[1]:	unknown-missing-side-chains.inp
+InputFiles[2]:	unknown-missing-side-chains-in.mae
+OutputFiles[1]:	unknown-missing-side-chains-out.maegz
+LogFiles[1]:	unknown-missing-side-chains.log
+TempFiles[1]:	/Users/Angelica/Documents/Schrodinger/prepwizard_workdir/.dnab42104e-0-5411549b
+Transfers[1]:	'/opt/schrodinger/suites2014-3/schrodinger.hosts' > 'schrodinger.hosts'
+BackendFifos[1]:	13976 /tmp/mmjob.Angelica.13976
+Licenses[1]:	PSP_PLOP:8
+Envs[1]:	HOME_MMSHARE_EXEC=/opt/schrodinger/suites2014-3/mmshare-v27013/bin/Darwin-x86_64
+Envs[2]:	MMSHARE_EXEC=/opt/schrodinger/suites2014-3/mmshare-v27013/bin/Darwin-x86_64
+Envs[3]:	PSP_EXEC=/opt/schrodinger/suites2014-3/psp-v37013/bin/Darwin-x86_64
+Envs[4]:	SCHRODINGER=/opt/schrodinger/suites2014-3
+Envs[5]:	SCHRODINGER_APP_EXEC=PSP_EXEC
+Envs[6]:	SCHRODINGER_COMMANDLINE="/opt/schrodinger/suites2014-3/prime unknown-missing-side-chains -PROJ /var/folders/yd/x0qswdhn73vgkpgh_vxlhsx80000gn/T/Angelica/tproj26389a13717 -DISP ignore -HOST localhost"
+Envs[7]:	SCHRODINGER_HOSTS=/Users/Angelica/.schrodinger/tmp/unknown-missing-side-chains/schrodinger.hosts
+Envs[8]:	SCHRODINGER_JOBID=dnab42104e-0-5411549b
+Envs[9]:	SCHRODINGER_JOB_DEBUG=0
+Envs[10]:	SCHRODINGER_NICE=local
+Envs[11]:	SCHRODINGER_PRODUCT=psp
+Envs[12]:	SCHRODINGER_PROJECT=/var/folders/yd/x0qswdhn73vgkpgh_vxlhsx80000gn/T/Angelica/tproj26389a13717
+Envs[13]:	SCHRODINGER_SAVE_JOBDIR=0
+Envs[14]:	SCHRODINGER_TPP=
+Envs[15]:	SCHRODINGER_UMASK=18

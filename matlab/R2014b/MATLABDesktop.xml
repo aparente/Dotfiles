@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Layout CurrentFolderBarBelow="yes">
+   <Version Major="3" Minor="1"/>
+   <Frame StatusBarShowing="yes" TitlesShowing="yes">
+      <ToolBars>
+         <ToolBar Label="Current Folder" Name="Current DirectoryToolBar" Showing="yes"/>
+      </ToolBars>
+      <Location EntirelyVisible="yes" External="yes" Height="813" Type="floating" Width="1309" X="131" Y="23"/>
+      <Split Orientation="leftRight" Position="330">
+         <View Name="Current Directory" Title="Current Folder"/>
+         <Split Orientation="leftRight" Position="754">
+            <View Name="Command Window" Title="Command Window"/>
+            <View Name="Workspace" Title="Workspace"/>
+         </Split>
+      </Split>
+      <QuickAccessLocation Region="right_of_tabs"/>
+   </Frame>
+   <Group Alphabetize="no" CollapseUndockedDocumentToolstrips="no" Dock="yes" Guest="no" Name="Editor" PropertyClass="com.mathworks.mde.editor.EditorGroup" Show="no" ShowViews="no" Title="Editor">
+      <Location Context="docked" Height="410" ParentHeight="614" ParentWidth="754" Path="EWN" Type="nested" Width="754" X="450" Y="199">
+         <ReferenceHierarchy>
+            <Split Orientation="leftRight" Position="330">
+               <View Name="Current Directory" Title="Current Folder"/>
+               <Split Orientation="leftRight" Position="754">
+                  <Split Orientation="topBottom" Position="410">
+                     <Group Name="Editor" Title="Editor"/>
+                     <View Name="Command Window" Title="Command Window"/>
+                  </Split>
+                  <View Name="Workspace" Title="Workspace"/>
+               </Split>
+            </Split>
+         </ReferenceHierarchy>
+      </Location>
+      <Location Context="nested" Height="410" ParentHeight="614" ParentWidth="754" Path="EWN" Type="nested" Width="754" X="450" Y="199">
+         <ReferenceHierarchy>
+            <Split Orientation="leftRight" Position="330">
+               <View Name="Current Directory" Title="Current Folder"/>
+               <Split Orientation="leftRight" Position="754">
+                  <Split Orientation="topBottom" Position="410">
+                     <Group Name="Editor" Title="Editor"/>
+                     <View Name="Command Window" Title="Command Window"/>
+                  </Split>
+                  <View Name="Workspace" Title="Workspace"/>
+               </Split>
+            </Split>
+         </ReferenceHierarchy>
+      </Location>
+      <Location Context="undocked" External="yes" Type="floating"/>
+      <Location Context="document" Type="floating"/>
+      <DocumentArea Arrangement="maximized" Bar="top" Empty="no" MaxBarWidth="180" Showing="yes" ShrinkTabs="no"/>
+   </Group>
+   <Group Alphabetize="no" CollapseUndockedDocumentToolstrips="no" Dock="no" Guest="no" Name="Figures" PropertyClass="com.mathworks.hg.peer.FiguresGroup" Show="no" ShowViews="no" Title="Figures">
+      <Location Context="docked" Height="77" ParentHeight="101" ParentWidth="886" Path="EWNT" TabIndex="2" Type="nested" Width="886" X="492" Y="218">
+         <ReferenceHierarchy>
+            <Split Orientation="leftRight" Position="281">
+               <View Name="Current Directory" Title="Current Folder"/>
+               <Split Orientation="leftRight" Position="886">
+                  <Split Orientation="topBottom" Position="101">
+                     <Tabbed Placement="bottom" Selected="2">
+                        <Group Name="Editor" Title="Editor"/>
+                        <Group Name="Array Editor" Title="Variables"/>
+                        <Group Name="Figures" Title="Figures"/>
+                     </Tabbed>
+                     <View Name="Command Window" Title="Command Window"/>
+                  </Split>
+                  <View Name="Workspace" Title="Workspace"/>
+               </Split>
+            </Split>
+         </ReferenceHierarchy>
+      </Location>
+      <Location Context="nested" Height="77" ParentHeight="101" ParentWidth="886" Path="EWNT" TabIndex="2" Type="nested" Width="886" X="492" Y="218">
+         <ReferenceHierarchy>
+            <Split Orientation="leftRight" Position="281">
+               <View Name="Current Directory" Title="Current Folder"/>
+               <Split Orientation="leftRight" Position="886">
+                  <Split Orientation="topBottom" Position="101">
+                     <Tabbed Placement="bottom" Selected="2">
+                        <Group Name="Editor" Title="Editor"/>
+                        <Group Name="Array Editor" Title="Variables"/>
+                        <Group Name="Figures" Title="Figures"/>
+                     </Tabbed>
+                     <View Name="Command Window" Title="Command Window"/>
+                  </Split>
+                  <View Name="Workspace" Title="Workspace"/>
+               </Split>
+            </Split>
+         </ReferenceHierarchy>
+      </Location>
+      <Location Context="undocked" External="yes" Height="852" Type="floating" Width="1299" X="52" Y="44"/>
+      <Location Context="document" EntirelyVisible="yes" External="yes" Height="141" Type="floating" Width="446" X="439" Y="382"/>
+      <Frame StatusBarShowing="yes" TitlesShowing="yes">
+         <Location External="yes" Height="852" Type="floating" Width="1299" X="52" Y="44"/>
+      </Frame>
+      <Split Orientation="topBottom" Position="0.738">
+         <Documents Name="Figures" Title="Figures"/>
+         <View Name="Property Editor" Title="Property Editor"/>
+      </Split>
+      <DocumentArea Arrangement="maximized" Bar="top" Empty="no" MaxBarWidth="180" Showing="no" ShrinkTabs="no"/>
+   </Group>
+   <Group Alphabetize="no" CollapseUndockedDocumentToolstrips="no" Dock="no" Guest="no" Name="Web Browser" PropertyClass="com.mathworks.mde.webbrowser.WebBrowserGroup" Show="no" ShowViews="no" Title="Web Browser"/>
+   <Group Alphabetize="no" CollapseUndockedDocumentToolstrips="no" Dock="yes" Guest="no" Name="Array Editor" Show="no" ShowViews="no" Title="Variables">
+      <Location Context="docked" Path="EWNT" TabIndex="1" Type="nested" X="193" Y="23">
+         <ReferenceHierarchy>
+            <Split Orientation="leftRight" Position="330">
+               <View Name="Current Directory" Title="Current Folder"/>
+               <Split Orientation="leftRight" Position="754">
+                  <Split Orientation="topBottom" Position="410">
+                     <Tabbed Placement="bottom" Selected="1">
+                        <Group Name="Editor" Title="Editor"/>
+                        <Group Name="Array Editor" Title="Variables"/>
+                     </Tabbed>
+                     <View Name="Command Window" Title="Command Window"/>
+                  </Split>
+                  <View Name="Workspace" Title="Workspace"/>
+               </Split>
+            </Split>
+         </ReferenceHierarchy>
+      </Location>
+      <Location Context="nested" Path="EWNT" TabIndex="1" Type="nested" X="193" Y="23">
+         <ReferenceHierarchy>
+            <Split Orientation="leftRight" Position="330">
+               <View Name="Current Directory" Title="Current Folder"/>
+               <Split Orientation="leftRight" Position="754">
+                  <Split Orientation="topBottom" Position="410">
+                     <Tabbed Placement="bottom" Selected="1">
+                        <Group Name="Editor" Title="Editor"/>
+                        <Group Name="Array Editor" Title="Variables"/>
+                     </Tabbed>
+                     <View Name="Command Window" Title="Command Window"/>
+                  </Split>
+                  <View Name="Workspace" Title="Workspace"/>
+               </Split>
+            </Split>
+         </ReferenceHierarchy>
+      </Location>
+      <Location Context="document" Maximized="yes" Type="floating"/>
+      <DocumentArea Arrangement="maximized" Bar="top" Empty="yes" MaxBarWidth="180" Showing="no" ShrinkTabs="no"/>
+   </Group>
+   <Group Alphabetize="no" CollapseUndockedDocumentToolstrips="no" Dock="no" Guest="no" Name="File Comparisons" PropertyClass="com.mathworks.comparisons.report.ComparisonReportGroup" Show="no" ShowViews="no" Title="Comparison">
+      <Location Context="undocked" External="yes" Height="600" Type="floating" Width="800"/>
+   </Group>
+   <Group Alphabetize="no" CollapseUndockedDocumentToolstrips="no" Dock="no" Guest="no" Name="Doc Center" PropertyClass="com.mathworks.mde.help.MLHelpBrowserGroup" Show="no" ShowViews="no" Title="Help"/>
+   <Client Class="com.mathworks.mde.cmdwin.CmdWin" Dock="yes" Guest="no" Name="Command Window" SelectionOrder="7" Show="yes" Singleton="yes" StatusBarShowing="yes" TearOff="no" Title="Command Window">
+      <Location Context="docked" Height="614" ParentHeight="614" ParentWidth="970" Path="EW" Type="nested" Width="754" X="470" Y="199"/>
+      <Location Context="nested" Height="614" ParentHeight="614" ParentWidth="970" Path="EW" Type="nested" Width="754" X="470" Y="199"/>
+   </Client>
+   <Client Class="com.mathworks.mde.cmdhist.AltHistory" Dock="no" Guest="no" Name="Command History" Show="yes" Singleton="yes" StatusBarShowing="yes" TearOff="yes" Title="Command History">
+      <Location Context="docked" Path="EES" Type="nested"/>
+      <Location Anchored="yes" Context="undocked" External="yes" Height="250" Type="floating" Width="400" X="470" Y="529"/>
+   </Client>
+   <Client Class="com.mathworks.mde.explorer.Explorer" Dock="yes" Guest="no" Name="Current Directory" SelectionOrder="8" Show="yes" Singleton="yes" StatusBarShowing="yes" TearOff="no" Title="Current Folder">
+      <Location Context="docked" Height="614" ParentHeight="614" ParentWidth="1309" Path="W" Type="nested" Width="330" X="131" Y="199"/>
+      <Location Context="nested" Height="614" ParentHeight="614" ParentWidth="1309" Path="W" Type="nested" Width="330" X="131" Y="199"/>
+   </Client>
+   <Client Class="com.mathworks.mde.workspace.WorkspaceBrowser" Dock="yes" Guest="no" Name="Workspace" SelectionOrder="9" Show="yes" Singleton="yes" StatusBarShowing="yes" TearOff="no" Title="Workspace">
+      <Location Context="docked" Height="614" ParentHeight="614" ParentWidth="970" Path="EE" Type="nested" Width="207" X="1233" Y="199"/>
+      <Location Context="nested" Height="614" ParentHeight="614" ParentWidth="970" Path="EE" Type="nested" Width="207" X="1233" Y="199"/>
+   </Client>
+   <Client Class="com.mathworks.mde.profiler.Profiler" Dock="no" Guest="no" Name="Profiler" Show="no" Singleton="yes" StatusBarShowing="yes" TearOff="no" Title="Profiler">
+      <Location Context="docked" Path="EWN" Type="nested"/>
+      <Location Context="undocked" External="yes" Height="600" Type="floating" Width="800"/>
+   </Client>
+   <Client Class="com.mathworks.webintegration.fileexchange.ui.FileExchangeDesktopClientImpl" Dock="yes" Guest="no" Name="File Exchange" Show="no" Singleton="yes" StatusBarShowing="yes" TearOff="no" Title="File Exchange">
+      <Location Context="docked" Path="EWN" Type="nested"/>
+      <Location Context="undocked" External="yes" Height="600" Type="floating" Width="800"/>
+   </Client>
+   <Client Class="com.mathworks.page.plottool.FigurePalette" Dock="yes" Group="Figures" Guest="no" Name="Figure Palette" Show="no" Singleton="yes" StatusBarShowing="yes" TearOff="no" Title="Figure Palette">
+      <Location Context="docked" Path="NW" Type="nested"/>
+   </Client>
+   <Client Class="com.mathworks.page.plottool.PlotBrowser" Dock="yes" Group="Figures" Guest="no" Name="Plot Browser" Show="no" Singleton="yes" StatusBarShowing="yes" TearOff="no" Title="Plot Browser">
+      <Location Context="docked" Path="NEE" Type="nested"/>
+   </Client>
+   <Client Class="com.mathworks.page.plottool.PropertyEditor" Dock="yes" Group="Figures" Guest="no" Name="Property Editor" Show="no" Singleton="yes" StatusBarShowing="yes" TearOff="no" Title="Property Editor">
+      <Location Context="docked" Height="188" ParentHeight="750" ParentWidth="1299" Path="S" Type="nested" Width="1299" X="52" Y="685">
+         <ReferenceHierarchy>
+            <Split Orientation="topBottom" Position="553">
+               <Documents Name="Figures" Title="Figures"/>
+               <View Name="Property Editor" Title="Property Editor"/>
+            </Split>
+         </ReferenceHierarchy>
+      </Location>
+      <Location Context="nested" Height="188" ParentHeight="750" ParentWidth="1299" Path="S" Type="nested" Width="1299" X="52" Y="685">
+         <ReferenceHierarchy>
+            <Split Orientation="topBottom" Position="553">
+               <Documents Name="Figures" Title="Figures"/>
+               <View Name="Property Editor" Title="Property Editor"/>
+            </Split>
+         </ReferenceHierarchy>
+      </Location>
+      <ClientData Group="Figures"/>
+   </Client>
+</Layout>

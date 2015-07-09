@@ -1,0 +1,28 @@
+--- MonitorJobs
+---
+NextRun: 0
+WorkRemaining: 0
+--- CheckSubmitted
+---
+IneligibleJobs:
+  - dnab42104e-0-5411549b
+NextRun: 1410422543
+NextRunDelay: 600
+SubmittedThreshold: 300
+WorkRemaining: 0
+--- UpdateDbIndex
+---
+NextRun: 1410422543
+WorkRemaining: 0
+--- CheckStranded
+---
+DeathThreshold: 7200
+IneligibleJobs:
+  - dnab42104e-0-5411549b
+NextRun: 1410422544
+NextRunDelay: 300
+RecoveryLimit: 300
+RecoveryQueue: []
+StaleThreshold: 2592000
+StrandedThreshold: 600
+WorkRemaining: 0

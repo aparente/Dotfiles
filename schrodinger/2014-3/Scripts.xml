@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApplicationSettings>
+    <appframework>
+        <cysteine_mutation_gui-App-last-disp dt="QString">Append new entries</cysteine_mutation_gui-App-last-disp>
+        <protein_protein_docking_gui-PdpApp-last-cpu dt="QString">1</protein_protein_docking_gui-PdpApp-last-cpu>
+        <protein_protein_docking_gui-PdpApp-last-disp dt="QString">Append new entries</protein_protein_docking_gui-PdpApp-last-disp>
+        <protein_protein_docking_gui-PdpApp-last-host dt="QString">localhost</protein_protein_docking_gui-PdpApp-last-host>
+    </appframework>
+</ApplicationSettings>

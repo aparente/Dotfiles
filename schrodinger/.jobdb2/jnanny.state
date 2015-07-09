@@ -1,0 +1,13 @@
+--- CleanupDatabase
+---
+CleanupAge: 604800
+File: common
+Hostname: dnab42104e.stanford.edu
+JobDBMaxSize: 2000
+LastRun: 1410421943
+LogCleanupAge: 2592000
+NextRun: 1410443543
+OldestJobId: ''
+OldestJobTimestamp: 1410421943
+RunBy: jserver
+WorkRemaining: 0

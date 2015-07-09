@@ -1,0 +1,22 @@
+export PATH=/usr/local/bin:$PATH
+PLPLOT_LIB=/usr/local/Library/EMBOSS-6.6.0/emboss/lib
+source /Applications/cns_solve_1.3/cns_solve_env.sh
+#PATH=/usr/local/Library/EMBOSS-6.6.0/emboss/bin:$PATH
+export PLPLOT_LIB PATH
+# MacPorts Installer addition on 2013-10-18_at_18:17:41: adding an appropriate PATH variable for use with MacPorts.
+export PATH=/usr/local:/usr/local/bin:/usr/local/Library/EMBOSS-6.6.0/emboss/bin:/bin:/sbin:/usr/bin/:$PATH
+# Finished adapting your PATH environment variable for use with MacPorts.
+#source /Applications/PyRosetta.MacOSX.Lion-r56244.64Bit/SetPyRosettaEnvironment.sh
+alias storm='ssh -X aparente@storm.stanford.edu'
+alias certainty='ssh -X aparente@certainty-a'
+alias biox3='ssh -X aparente@biox3.stanford.edu'
+#export PYTHONPATH=/usr/local/lib/python2.7/site-packages:$PYTHONPATH
+#export PYTHONPATH=/usr/local/Cellar/python/2.7.6_1/bin/python2.7/site-packages:$PYTHONPATH
+##
+# Your previous /Users/Angelica/.profile file was backed up as /Users/Angelica/.profile.macports-saved_2014-01-30_at_23:26:33
+##
+
+# MacPorts Installer addition on 2014-01-30_at_23:26:33: adding an appropriate PATH variable for use with MacPorts.
+
+# added by Anaconda 2.0.1 installer
+export PATH="/Users/Angelica/anaconda/bin:$PATH"

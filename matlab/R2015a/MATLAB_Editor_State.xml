@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Editor version="1.0">
+   <File absPath="/Users/Angelica/Documents/Box_sync_local/Bryant_Lab/smFRET-data/green_machine_data/2014_10_15" lastWrittenTime="1414367513593" name="colocalization_and_allmolecule_analysis_APmod.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/Users/Angelica/Documents/Box_sync_local/Bryant_Lab/smFRET-data/green_machine_data/2014_12_20" lastWrittenTime="1421134156040" name="colocalization_and_allmolecule_analysis_APmod_test.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/Users/Angelica/Box Sync/Angelica Parente's External Files/Bios230 MATLAB Data Analysis/Problem_set_1" lastWrittenTime="1433180520208" name="debugLDA.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/Users/Angelica/Box Sync/Angelica Parente's External Files/Bios230 MATLAB Data Analysis" lastWrittenTime="1433541838675" name="hist_gui.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/Users/Angelica/Box Sync/Angelica Parente's External Files/Bryant_Lab (aparente@stanford.edu)/cns_fret_docking" lastWrittenTime="1433721791745" name="hist_gui_distances.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/Users/Angelica/Box Sync/Angelica Parente's External Files/Bios230 MATLAB Data Analysis" lastWrittenTime="1433721916094" name="determineThreeCongruency.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/Users/Angelica/Box Sync/Angelica Parente's External Files/Bios230 MATLAB Data Analysis/Problem_set_1" lastWrittenTime="1433722009499" name="multifileselect.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/Users/Angelica/Box Sync/Angelica Parente's External Files/Bios230 MATLAB Data Analysis" lastWrittenTime="1433722010668" name="dmv_iterate.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/Users/Angelica/Box Sync/Angelica Parente's External Files/Bios230 MATLAB Data Analysis" lastWrittenTime="1433722014370" name="addNumsInMatClassify.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/Users/Angelica/Box Sync/Angelica Parente's External Files/Bios230 MATLAB Data Analysis" lastWrittenTime="1433881912280" name="adaptHist.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/Users/Angelica/Box Sync/Angelica Parente's External Files/Bios230 MATLAB Data Analysis" lastWrittenTime="1433881912374" name="calladapthist.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/Users/Angelica/Box Sync/Angelica Parente's External Files/Bios230 MATLAB Data Analysis" lastWrittenTime="1433881912473" name="image_hist.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/Users/Angelica/Box Sync/Angelica Parente's External Files/Bios230 MATLAB Data Analysis" lastWrittenTime="1433881912508" name="blur_spatial_image_filter.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/Users/Angelica/Box Sync/Angelica Parente's External Files/Bios230 MATLAB Data Analysis" lastWrittenTime="1433881912542" name="laplace_filtering.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/Users/Angelica/Box Sync/Angelica Parente's External Files/Bios230 MATLAB Data Analysis" lastWrittenTime="1433881912557" name="erosion_filter.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/Users/Angelica/Box Sync/Angelica Parente's External Files/Bios230 MATLAB Data Analysis" lastWrittenTime="1433881912570" name="dilate_filter.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/Users/Angelica/Box Sync/Angelica Parente's External Files/Bios230 MATLAB Data Analysis" lastWrittenTime="1433881912601" name="open_close_filter.m">
+      <CodeFolds version="1.0"/>
+   </File>
+</Editor>

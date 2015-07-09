@@ -1,0 +1,36 @@
+** jserver-watcher now monitoring jserver on dnab42104e (pid 13750) **
+140911-00:18:35 [Create server socket with LISTENQ=100 and TIMEOUT=20]
+140911-00:18:35 [redirect stderr to the log file]
+140911-00:18:35 jserver (PID 13750) listening on port 61428
+140911-00:18:35 from /opt/schrodinger/suites2014-3/mmshare-v27013/bin/Darwin-x86_64
+140911-00:18:35 using mmshare 27013
+140911-00:18:35 Server starting
+140911-00:19:05 run jnanny
+140911-00:19:06 scheduling one more jnanny run
+140911-00:19:06 jnanny still has work to do
+140911-00:20:06 run jnanny
+140911-00:20:08 jnanny does not need to run again.
+140911-00:20:08 handling 1 connection(s)
+140911-00:20:08 Nothing more to do...
+140911-00:20:08 Shutting down
+140911-00:20:08 [Server] closing the listening socket
+** jserver-watcher now monitoring jserver on dnab42104e (pid 13960) **
+[stub profiling data written to /Users/Angelica/.schrodinger/Angelica.nytprof]
+140911-00:51:52 [Create server socket with LISTENQ=100 and TIMEOUT=20]
+140911-00:51:52 [redirect stderr to the log file]
+140911-00:51:52 jserver (PID 13960) listening on port 61428
+140911-00:51:52 from /opt/schrodinger/suites2014-3/mmshare-v27013/bin/Darwin-x86_64
+140911-00:51:52 using mmshare 27013
+140911-00:51:52 Server starting
+140911-00:51:55 jnanny still has work to do
+140911-00:52:22 run jnanny
+140911-00:57:23 run jnanny
+140911-06:54:11 run jnanny
+140911-06:54:12 scheduling one more jnanny run
+140911-06:54:12 jnanny still has work to do
+140911-08:54:56 run jnanny
+140911-08:54:57 jnanny does not need to run again.
+140911-08:54:57 handling 1 connection(s)
+140911-08:54:57 Nothing more to do...
+140911-08:54:57 Shutting down
+140911-08:54:57 [Server] closing the listening socket

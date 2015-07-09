@@ -1,0 +1,26 @@
+--- MonitorJobs
+---
+NextRun: 0
+WorkRemaining: 0
+--- CheckSubmitted
+---
+IneligibleJobs: []
+NextRun: 1410451497
+NextRunDelay: 600
+SubmittedThreshold: 300
+WorkRemaining: 0
+--- UpdateDbIndex
+---
+NextRun: 1410451497
+WorkRemaining: 0
+--- CheckStranded
+---
+DeathThreshold: 7200
+IneligibleJobs: []
+NextRun: 1410451197
+NextRunDelay: 300
+RecoveryLimit: 300
+RecoveryQueue: []
+StaleThreshold: 2592000
+StrandedThreshold: 600
+WorkRemaining: 0
